@@ -1,0 +1,14 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Island System}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Markov Random Field}{20}{0}{1}
+\beamer@sectionintoc {2}{Methods}{24}{0}{2}
+\beamer@subsectionintoc {2}{1}{MRF of Apostle Islands}{25}{0}{2}
+\beamer@subsectionintoc {2}{2}{Formalization}{27}{0}{2}
+\beamer@subsectionintoc {2}{3}{Imperfect Observations}{30}{0}{2}
+\beamer@sectionintoc {3}{Primary Results}{35}{0}{3}
+\beamer@subsectionintoc {3}{1}{Fitting a APIS MRF of 2 Simulated Species}{36}{0}{3}
+\beamer@subsectionintoc {3}{2}{Fisher and Marten System}{38}{0}{3}
+\beamer@subsectionintoc {3}{3}{Coyote Fox Bobcat System}{41}{0}{3}
+\beamer@subsectionintoc {3}{4}{TJH: Land Systems with Elevation Gradient}{43}{0}{3}
+\beamer@sectionintoc {4}{Initial Discussion}{46}{0}{4}
+\beamer@sectionintoc {5}{Next Steps \& Questions}{46}{0}{5}
